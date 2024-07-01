@@ -1,2 +1,2 @@
 # Credit_Card_Analysis_Dashboard
-Power bi dashboard
+This project includes developing credit card weekly dashboard which provides real-time insights. In this I have used the SQL database to design dashboard
