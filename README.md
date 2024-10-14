@@ -1,5 +1,7 @@
 # Credit_Card_Analysis_Dashboard
 Credit Card Analysis Dashboard 💳📊
+
+
 This project is a Credit Card Analysis Dashboard designed to visualize and analyze credit card transaction data. The dashboard provides insights into spending patterns, customer demographics, and potential fraud detection, making it a powerful tool for businesses and analysts to understand customer behavior and improve decision-making.
 
 Features:
