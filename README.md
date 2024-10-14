@@ -6,12 +6,17 @@ This project is a Credit Card Analysis Dashboard designed to visualize and analy
 
 Features:
 Customer Segmentation: Identify different customer groups based on their spending habits.
+
 Transaction Analysis: Track and visualize daily, monthly, and yearly spending trends.
+
 Fraud Detection: Utilize machine learning algorithms to detect unusual transaction patterns.
+
 Interactive Visualizations: View spending by categories, locations, and time frames with interactive charts.
+
 Filterable Dashboard: Allows users to filter data based on parameters like customer ID, transaction type, and date range.
 
-Technologies Used
+Technologies Used:
+
 Python (Pandas, NumPy)
 Data Visualization: Seaborn, and Matplotlib
 SQL for data extraction and manipulation
