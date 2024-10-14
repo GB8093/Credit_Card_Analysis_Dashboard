@@ -21,7 +21,9 @@ Filterable Dashboard: Allows users to filter data based on parameters like custo
 Technologies Used:
 
 Python (Pandas, NumPy)
-Data Visualization: Seaborn, and Matplotlib
+
+Data Visualization: Seaborn,Power BI, and Matplotlib
+
 SQL for data extraction and manipulation
 
 
